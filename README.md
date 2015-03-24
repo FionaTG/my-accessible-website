@@ -1,1 +1,3 @@
-# ftg-a11y-rating
+# Accessible Star Rating Plugin
+
+Coming soon :)
