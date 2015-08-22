@@ -9,7 +9,7 @@
 
 (function ($) {
 
-    $.fn.maw-skipnav = function (options) {
+    $.fn.maw_skipnav = function (options) {
 
         var mainContent = $(this);
 
