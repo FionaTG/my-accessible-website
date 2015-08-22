@@ -1,0 +1,23 @@
+﻿/*!
+ * My Accessible Website Skip Navigation Plugin
+ * http://myaccessible.website
+ *
+ * Copyright 2015 Fiona Taylor Gorringe and other contributors
+ * Released under the MIT license
+ * https://github.com/FionaTG/my-accessible-website/blob/master/LICENSE
+ */
+
+.maw-skipnav-skiplink
+{
+	display: inline-block;
+	padding: 15px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 999;
+}
+
+.maw-skipnav-skiplink-hidden
+{
+	left:-10000px;
+}
