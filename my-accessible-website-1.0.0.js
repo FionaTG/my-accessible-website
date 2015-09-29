@@ -34,8 +34,8 @@
 
         // Add a skip navigation link to the body, that focuses the main content element
         var skipLink = $("<a>", {
-            href: "#" + mainContentId,
-            class: "maw-skipnav-skiplink " + (settings.linkAlwaysVisible ? "" : " maw-skipnav-skiplink-hidden ")
+            'href': "#" + mainContentId,
+            'class': "maw-skipnav-skiplink " + (settings.linkAlwaysVisible ? "" : " maw-skipnav-skiplink-hidden ")
         }).html(settings.skipLinkText).prependTo($("body"));
 
         // Show the link when focused
