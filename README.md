@@ -6,7 +6,5 @@ My website can be found at: [myaccessible.website](http://myaccessible.website)
 
 More information about all the plugins in the library, demos and how to use them can be found on the site too.
 
-## [Skip Navigation](http://myaccessible.website/plugins/skip-navigation-plugin/)
+## [Skip to Main Content](http://myaccessible.website/plugins/skip-to-main-content-plugin/)
 When you’re navigating a website with the keyboard, it can be really tedious to have to tab through all the navigation links on every page. This plugin gives users the ability to skip straight to the main content of the site.
-
-
